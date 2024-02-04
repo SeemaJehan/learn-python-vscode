@@ -16,8 +16,11 @@ def test_if_statement():
     number = 15
     conclusion = ''
 
+    print (number)
+
     if number < 0:
         conclusion = 'Number is less than zero'
+        
     elif number == 0:
         conclusion = 'Number equals to zero'
     elif number < 1:
