@@ -9,7 +9,7 @@ unconditionally fatal.
 It is possible to write programs that handle selected exceptions.
 """
 
-
+# added a comment as a task
 def test_handle_exceptions():
     """Handling of exceptions
 
